@@ -1,0 +1,16 @@
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.deps.json
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.dll
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.pdb
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Domain.dll
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Domain.pdb
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.AssemblyInfo.cs
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.sourcelink.json
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitt.9B13A9E9.Up2Date
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.dll
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\refint\Pepelitto.Application.dll
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.pdb
+C:\Users\Ali Can\source\repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\ref\Pepelitto.Application.dll
