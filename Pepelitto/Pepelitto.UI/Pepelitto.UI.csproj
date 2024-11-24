@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pepelitto.Application\Pepelitto.Application.csproj" />
+    <ProjectReference Include="..\Pepelitto.Domain\Pepelitto.Domain.csproj" />
+    <ProjectReference Include="..\Pepelitto.Infrastructure\Pepelitto.Infrastructure.csproj" />
     <ProjectReference Include="..\Pepelitto.WebAPI\Pepelitto.WebAPI.csproj" />
   </ItemGroup>
 

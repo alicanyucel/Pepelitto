@@ -6,8 +6,13 @@ using Pepelitto.Infrastructure;
 using Pepelitto.WebAPI.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddDefaultCors();
+builder.Services.AddCors(opt =>
+{
+    opt.AddDefaultPolicy(builder =>
+    {
+        builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+    });
+});
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 

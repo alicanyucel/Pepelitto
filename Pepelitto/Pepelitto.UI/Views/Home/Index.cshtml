@@ -6,3 +6,27 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<h2>Products</h2>
+
+@if (ViewData["Products"] != null)
+{
+    var products = ViewData["Products"] as string[];
+    if (products != null && products.Length > 0)
+    {
+        <ul>
+            @foreach (var product in products)
+            {
+                <li>@product</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No products available.</p>
+    }
+}
+else
+{
+    <p>No products available.</p>
+}

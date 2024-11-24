@@ -328,3 +328,5 @@ C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\obj\Debug\
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\obj\Debug\net8.0\Pepelitto.WebAPI.pdb
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\obj\Debug\net8.0\Pepelitto.WebAPI.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\obj\Debug\net8.0\ref\Pepelitto.WebAPI.dll
+C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

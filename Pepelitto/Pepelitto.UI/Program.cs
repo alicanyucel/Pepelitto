@@ -8,6 +8,7 @@ namespace Pepelitto.UI
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddHttpClient();  // HttpClient'ý servis olarak ekleyin
 
             var app = builder.Build();
 

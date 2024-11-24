@@ -109,3 +109,5 @@ C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\bin\Debug\net8
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\obj\Debug\net8.0\Pepelitto.UI.csproj.AssemblyReference.cache
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\obj\Debug\net8.0\Pepelitto.UI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\obj\Debug\net8.0\Pepelitt.3A80B4C3.Up2Date
+C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

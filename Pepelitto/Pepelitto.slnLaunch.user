@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Pepelitto.UI\\Pepelitto.UI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
