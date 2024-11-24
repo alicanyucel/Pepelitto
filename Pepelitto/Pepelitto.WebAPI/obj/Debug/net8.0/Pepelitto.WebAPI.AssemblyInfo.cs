@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pepelitto.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1fabca6b8ada840bd06b8e8414cbb64fc43279e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8643dd64be2da52513c0bf78ee67da930afbfc33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pepelitto.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pepelitto.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

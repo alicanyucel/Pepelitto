@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepelitto.Infrastructure", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepelitto.WebAPI", "Pepelitto.WebAPI\Pepelitto.WebAPI.csproj", "{CBBE3920-9513-43C1-BC35-4875EEB057D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepelitto.UI", "Pepelitto.UI\Pepelitto.UI.csproj", "{2165A060-61F7-4610-93EC-1630796527EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CBBE3920-9513-43C1-BC35-4875EEB057D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBBE3920-9513-43C1-BC35-4875EEB057D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBBE3920-9513-43C1-BC35-4875EEB057D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2165A060-61F7-4610-93EC-1630796527EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2165A060-61F7-4610-93EC-1630796527EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2165A060-61F7-4610-93EC-1630796527EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2165A060-61F7-4610-93EC-1630796527EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
