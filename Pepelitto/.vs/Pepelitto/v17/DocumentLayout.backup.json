@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.infrastructure\\pepelitto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\pepelitto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\pepelitto.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\pepelitto.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:04:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:57:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pepelitto.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:57:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pepelitto.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:57:23.994Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

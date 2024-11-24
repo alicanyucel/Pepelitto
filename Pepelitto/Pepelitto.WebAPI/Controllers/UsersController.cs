@@ -16,6 +16,7 @@ namespace Pepelitto.WebAPI.Controllers
         public UsersController(IMediator mediator) : base(mediator)
         {
         }
+        // TEST EDİLDİ SAĞLAM
         [HttpPost]
         public async Task<IActionResult> GetAll(GetAllUsersQuery request, CancellationToken cancellationToken)
         {
