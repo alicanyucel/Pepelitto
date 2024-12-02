@@ -10,7 +10,6 @@ namespace Pepelitto.Domain.Entities
         public string FirstName { get; set; } = string.Empty; 
         
         public string LastName { get; set; } = string.Empty; 
-        public string UserID { get; set; }=string.Empty;
         public string FullName => string.Join(" ", FirstName, LastName); 
         public string Email { get; set; }=string.Empty; 
         public string Password { get; set; }=string.Empty; 

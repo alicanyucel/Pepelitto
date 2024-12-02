@@ -8,6 +8,7 @@ namespace Pepelitto.Domain.DataStructures
 {
 	public class Message
 	{
+		public Guid MesssageId { get; set; }
 		public Guid From { get; set; }
 		public Guid To { get; set; }
 		public DateTime MessageTime {get;set;}

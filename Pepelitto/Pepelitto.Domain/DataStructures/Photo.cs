@@ -8,6 +8,7 @@ namespace Pepelitto.Domain.DataStructures
 {
 	public class PostPhoto
 	{ 
+		public Guid PostPhotoId { get; set; }	
 		public string PhotoUrl { get; set; }=string.Empty; 
 
 	}
