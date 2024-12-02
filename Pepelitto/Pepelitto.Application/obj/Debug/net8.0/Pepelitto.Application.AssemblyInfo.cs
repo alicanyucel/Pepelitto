@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pepelitto.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4911322b79f24f4d732c5368b8f420fedbac5ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2fd4a32f5c05a47c8fdfb126e9a2ba59a8c4edb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pepelitto.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pepelitto.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

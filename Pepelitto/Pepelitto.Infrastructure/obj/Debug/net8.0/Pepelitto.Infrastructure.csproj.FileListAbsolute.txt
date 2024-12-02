@@ -58,3 +58,23 @@ C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Infrastructure\obj\Debu
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.pdb
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.genruntimeconfig.cache
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\ref\Pepelitto.Infrastructure.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Infrastructure.deps.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Infrastructure.runtimeconfig.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Infrastructure.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Infrastructure.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Application.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Domain.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Application.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\bin\Debug\net8.0\Pepelitto.Domain.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.sourcelink.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitt.FE81FB11.Up2Date
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\refint\Pepelitto.Infrastructure.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\Pepelitto.Infrastructure.genruntimeconfig.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Infrastructure\obj\Debug\net8.0\ref\Pepelitto.Infrastructure.dll

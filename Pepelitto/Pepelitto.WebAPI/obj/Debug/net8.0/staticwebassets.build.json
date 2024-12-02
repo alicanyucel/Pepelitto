@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "VjMiHQ1BXFK48TRVwBigJhvpxCNvo5PtL/3/4x2VEjk=",
+  "Hash": "NgLHj/PJEU/C953D3kI8e5fv3n0ouniJSxUixDqd8po=",
   "Source": "Pepelitto.WebAPI",
   "BasePath": "_content/Pepelitto.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

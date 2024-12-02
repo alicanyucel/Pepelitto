@@ -39,3 +39,18 @@ C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\ref\Pepelitto.Domain.dll
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Domain\bin\Debug\net8.0\Pepelitto.Domain.runtimeconfig.json
 C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.genruntimeconfig.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\bin\Debug\net8.0\Pepelitto.Domain.deps.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\bin\Debug\net8.0\Pepelitto.Domain.runtimeconfig.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\bin\Debug\net8.0\Pepelitto.Domain.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\bin\Debug\net8.0\Pepelitto.Domain.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.sourcelink.json
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\refint\Pepelitto.Domain.dll
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.pdb
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\Pepelitto.Domain.genruntimeconfig.cache
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.Domain\obj\Debug\net8.0\ref\Pepelitto.Domain.dll

@@ -1,5 +1,14 @@
-wwwroot\css\site.css
+wwwroot\css\framework.css
+wwwroot\css\story.css
+wwwroot\css\themes\default.css
+wwwroot\dashboard.html
 wwwroot\favicon.ico
+wwwroot\images\2024.png
+wwwroot\images\background.jpg
+wwwroot\images\ceo.jpg
+wwwroot\images\user.png
+wwwroot\index.html
+wwwroot\js\hellodialog.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -58,3 +67,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\story.html
