@@ -1,0 +1,533 @@
+@import "themes/default.css";
+
+body {
+    margin: 0;
+}
+
+.settings {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 100000;
+}
+
+
+html {
+    font-size: 14px;
+}
+
+.header .sideNav {
+    position: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+}
+
+    .header .sideNav[alg="left"] {
+        position: fixed;
+        left: 0px;
+        width: 343px;
+        top: 0px;
+        padding-top: 0px;
+    }
+
+.post-user-name {
+    font-size: 15px;
+    width: 170px;
+}
+
+.header .sideNav[alg="right"] {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 316px;
+    height: 100vh;
+    top: 0px;
+}
+
+.header .header-content {
+    width: 97%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .header .header-content .userPanel {
+    }
+
+.iconPanel {
+    width: auto;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font-size: 25px;
+    position: static;
+}
+
+.non-select {
+    user-select: none;
+}
+/*Layouts*/
+.row {
+    width: 100%;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    min-height: 10px;
+    min-width: inherit;
+}
+
+.dashbutton {
+    border-radius: 8px;
+    height: 32px;
+    width: 90%;
+    border-style: groove;
+    border-width: 0.5px;
+    margin-bottom: 8px;
+}
+
+.dashboard .dash-content {
+    width: 100%;
+}
+.circle-photo{
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    user-select: none;
+    border-radius: 30px;
+}
+
+
+.dropdown-container {
+    position: relative;
+}
+
+    .dropdown-container .dropdown-content {
+        position: absolute;
+        min-height: 50px;
+        width: 100%;
+        display: none;
+        align-self: flex-start;
+    }
+
+    .dropdown-container:focus .dropdown-content {
+        display: block;
+        width: 100%;
+    }
+
+a {
+    text-decoration: none;
+}
+
+.post {
+    width: 100%;
+}
+
+.modal-buttons {
+    width: 30px;
+    min-width: 10px;
+}
+
+.page.modal-parent .modal-window.layout .modal-header.row {
+}
+
+.modal-close-btn {
+    height: 30px;
+    border-radius: 30px;
+    width: 30px;
+    font-family: Webdings;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* [disabled]margin-left: auto; */
+    /* [disabled]margin-right: 19px; */
+}
+
+.modal-title {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-result-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.modal-item {
+    width: 100%;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+.modal-content {
+    padding: 10px;
+}
+
+.blockingwindow {
+    width: 230px;
+}
+
+.page.modal-parent.story-window {
+    background-color: black;
+}
+
+.storycontainer {
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+    .storycontainer .story {
+    width: 400px;
+    border-radius: 6px;
+    height: 100%;
+    position: relative;
+    }
+
+.user-post.user-post-content .post-left-side {
+    display: flex;
+    justify-content: center;
+    min-width: 30px;
+}
+
+.user-post.user-post-content .post-left-buttons-side {
+    display: flex;
+    min-width: 20px;
+    justify-content: center;
+}
+
+.user-post.user-post-content .post-center {
+    width: 100%;
+}
+
+.post-details-btn {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.user-photo-post {
+    width: 30px;
+    border-radius: 20px;
+    height: 30px;
+    background-position: center center;
+}
+.storycontainer .story .story-header {
+    width: 100%;
+    height: 30px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 8px;
+    padding-right: 8px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 8px;
+}
+.story-usr-photo {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+.story .story-header .story-view {
+    position: absolute;
+    width: 430px;
+    height: 100%;
+}
+.story-usr-name {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+    .user-post {
+        border-radius: 10px;
+        background-color: white;
+        padding-left: 8px;
+        padding-right: 8px;
+        width: 92%;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 700px;
+        margin-bottom: 12px;
+        min-height: 130px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    .user-post-content {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.post-row {
+}
+
+.page {
+}
+
+.pageview {
+    margin-top: 0;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+    .pageview .view-content {
+        height: 100%;
+    }
+
+.content .page.pageview .viewnav {
+    height: 40px;
+    border-bottom-style: groove;
+    border-bottom-width: 0.1px;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+}
+
+.dashboard .dash-left {
+    width: 130px;
+    height: inherit;
+    padding-top: 1%;
+    margin-bottom: 9px;
+}
+
+.post-button {
+    height: 20px;
+    width: 20px;
+    margin-right: 7px;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.post-content {
+    width: 100%;
+    border-style: none;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+/*Modals*/
+.modal-parent {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(0,0,0,0.46);
+    z-index: 10150;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 8px;
+    padding-right: 8px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.content {
+    padding-left: 5px;
+    padding-top: 58px;
+    min-height: 100vh;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 332px;
+    margin-right: 316px;
+    margin-top: 0px;
+}
+
+.profile-card {
+    display: flex;
+    width: 90%;
+    border-radius: 30px;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 287px;
+}
+
+.page[hidden] {
+    display: none;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.user-background-mini .user-photo {
+    height: 90px;
+    width: 90px;
+    position: relative;
+    border-radius: 52px;
+    background-size: 50% auto;
+    background-repeat: no-repeat;
+    background-image: url(../images/ceo.jpg);
+    display: flex;
+    justify-content: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100% 100%;
+    min-height: 90px;
+    min-width: 90px;
+}
+
+.user-background-mini {
+    background-image: url(../images/2024.png);
+    width: 100%;
+    height: 151px;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.layout {
+    display: flex;
+}
+
+.layout[flow="h"] {
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    }    
+
+.layout[flow="v"] {
+    justify-content: flex-start;
+    flex-direction: row;
+    display: flex;
+    }    
+
+.hlayout[flow="h"] {
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hlayout[flow="v"] {
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.user-info {
+    min-height: 135px;
+    width: inherit;
+    position: relative;
+    border-radius: 52px;
+    top: 96px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .user-info .user-desc {
+        font-size: 14px;
+        color: gray;
+        position: relative;
+        top: 6px;
+    }
+
+.user-title {
+    font-size: 24px;
+}
+/*DashBoard*/
+.dashboard {
+    display: flex;
+    min-width: 230px;
+    min-height: 230px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.modal-parent .modal-window {
+    min-width: 123px;
+    border-radius: 10px;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* [disabled]padding-left: 10px; */
+    /* [disabled]padding-right: inherit; */
+}
+
+.modal-header {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* [disabled]margin-left: 8px; */
+    /* [disabled]margin-right: 8px; */
+}

@@ -62,6 +62,16 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "TS.EntityFrameworkCore.GenericRepository": {
               "target": "Package",
               "version": "[8.0.0, )"

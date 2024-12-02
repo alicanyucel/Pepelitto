@@ -1,0 +1,3 @@
+﻿ *Update-Database Komutu girdiğimde böyle bir hata alıyorum*
+ Hata:
+ Unable to create a 'DbContext' of type 'RuntimeType'. The exception 'Unable to resolve service for type 'Microsoft.EntityFrameworkCore.DbContextOptions' while attempting to activate 'Pepelitto.Infrastructure.Context.ApplicationDbContext'.' was thrown while attempting to create an instance. For the different patterns supported at design time, see https://go.microsoft.com/fwlink/?linkid=851728

@@ -19,8 +19,10 @@ namespace Pepelitto.UI.Controllers
             _logger = logger;
             _httpClient = httpClient;
         }
+        [Route("{id}")] 
+        // id : Kullanýcý'nýn nickanmesi 
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string id)
         {
             // API'ye gönderilecek veri (örnek: bir model veya parametre)
             var requestData = new { ExampleProperty = "value" }; // Buraya uygun veri modelini yazýn.

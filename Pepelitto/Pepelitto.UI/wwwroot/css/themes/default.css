@@ -1,0 +1,125 @@
+﻿body{ 
+     
+} 
+.header{ 
+ 	background: rgba(255, 255, 255, 0.36);
+border-bottom-left-radius: 16px; 
+	border-bottom-right-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11px);
+-webkit-backdrop-filter: blur(11px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.d{ 
+   
+} 
+.button:hover {
+    filter: brightness(0.8);
+    
+   
+}
+.content {
+    background-color: #FAFAFA;
+} 
+.blurnav{ 
+	backdrop-filter: blur(22px);
+    background-color:rgba(227,227,227,0.10);
+} 
+.profile-card{
+    background-color: rgba(255,248,248,0.7);
+    backdrop-filter: blur(22px);
+}
+.settings {
+    background-color: white;
+}
+.modal-parent {
+    background-color: rgba(0,0,0,0.46);
+}
+.user-info .user-desc {
+    color: gray;
+}
+.pageview {
+    background-color: white;
+}
+.post-button {
+    background-color: white;
+}
+.shape.blue {
+    border-radius: 425px;
+    width: 125px;
+    height: 125px;
+    position: fixed;
+    top: 161px;
+    left: 24px;
+    filter: blur(12px);
+    background-color: rgba(56,205,233,0.30);
+}
+.user-photo {
+    transition: filter 0.01s;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    filter: inherit;
+    box-sizing: content-box;
+}
+.green {
+    background-color: rgba(11,255,21,1.00);
+}
+.shape.green {
+    border-radius: 425px;
+    width: 125px;
+    height: 125px;
+    position: fixed;
+    top: 161px;
+    left: 148px;
+    filter: blur(12px);
+    background-color: rgba(33,234,91,0.30);
+}
+.shape.yellow {
+    border-radius: 425px;
+    width: 125px;
+    height: 125px;
+    position: fixed;
+    top: 281px;
+    left: 96px;
+    filter: blur(12px);
+    background-color: rgba(244,235,128,0.30);
+}
+.user-photo:hover {
+    filter: brightness(0.8);
+}
+.user-post {
+    background-color: white;
+}
+.user-post .post-content {
+    height: 90px;
+}
+.user-post .button-list {
+    height: 30px;
+}
+.edit.layout .button-list.layout.row .button.bold-button.post-button {
+}
+.modal-parent .modal-window {
+    background-color: white;
+}
+.modal-header {
+    border-bottom-style: groove;
+    border-bottom-width: 0.1px;
+}
+.dashbutton[selected] {
+    border-style: groove;
+    border-color: blue;
+
+}
+.modal-close-btn:hover {
+    filter: birghtness(80%);
+}
+.storycontainer .story {
+    border-style: groove;
+    border-width: 0.008px;
+}
+.post-details-btn {
+    background-color: inherit;
+    border-style: none;
+    font-weight: bold;
+    font-size: 16px;
+}

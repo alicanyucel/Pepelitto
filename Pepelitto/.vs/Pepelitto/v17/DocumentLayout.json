@@ -1,53 +1,233 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\datastructures\\usertag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\datastructures\\usertag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\pepelitto.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\pepelitto.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\entities\\messageinbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\entities\\messageinbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.ui\\pepelitto.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\pepelitto.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\options\\jwttokenoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\options\\jwttokenoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\migrations\\20241124121647_mg46.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\migrations\\20241124121647_mg46.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\auth\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\auth\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\auth\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\auth\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\pepelitto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\pepelitto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\views\\stories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\views\\stories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\wwwroot\\story.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\wwwroot\\story.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\wwwroot\\js\\hellodialog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\wwwroot\\js\\hellodialog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\wwwroot\\css\\framework.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\wwwroot\\css\\framework.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\wwwroot\\css\\themes\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\wwwroot\\css\\themes\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8B0674-058E-4BB6-BDC3-F971024AF431}|Pepelitto.Domain\\Pepelitto.Domain.csproj|solutionrelative:pepelitto.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\removeuserbyid\\removebyuseridcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\removeuserbyid\\removebyuseridcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\removeuserbyid\\removebyuseridcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\removeuserbyid\\removebyuseridcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\getalluser\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\getalluser\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\getalluser\\getalluserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\getalluser\\getalluserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.application\\features\\user\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16706A37-D258-495C-80EF-57B05EA9E25C}|Pepelitto.Application\\Pepelitto.Application.csproj|solutionrelative:pepelitto.application\\features\\user\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\hatalar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\hatalar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.infrastructure\\pepelitto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\pepelitto.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\pepelitto.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.ui\\pepelitto.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2165A060-61F7-4610-93EC-1630796527EA}|Pepelitto.UI\\Pepelitto.UI.csproj|solutionrelative:pepelitto.ui\\pepelitto.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.infrastructure\\pepelitto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9E74764A-82AB-45CD-92AF-BAA6BD602DC0}|Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj|solutionrelative:pepelitto.infrastructure\\pepelitto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\pepelittoson\\pepelitto\\pepelitto.webapi\\pepelitto.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|c:\\users\\user\\source\\repos\\pepelitto\\pepelitto\\pepelitto.webapi\\pepelitto.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CBBE3920-9513-43C1-BC35-4875EEB057D0}|Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj|solutionrelative:pepelitto.webapi\\pepelitto.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -58,8 +238,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 19,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -130,158 +314,687 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Pepelitto.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADkAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:33:31.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Program.cs",
-              "RelativeToolTip": "Pepelitto.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Message.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\Message.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Message.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:14:37.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.Domain\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Pepelitto.Domain\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.Domain\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Pepelitto.Domain\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:12:26.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Pepelitto.UI\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:12:02.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Program.cs",
-              "RelativeToolTip": "Pepelitto.WebAPI\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAewEEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:08:29.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T17:35:46.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Pepelitto.UI\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T15:08:06.486Z",
+              "Title": "BlockInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\BlockInfo.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\BlockInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\BlockInfo.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\BlockInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:38:57.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Pepelitto.UI",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Pepelitto.UI.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
-              "RelativeToolTip": "Pepelitto.UI\\Pepelitto.UI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T14:59:08.92Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\appsettings.json",
+              "RelativeToolTip": "Pepelitto.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T14:45:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Pepelitto.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T14:46:12.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Photo.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\Photo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Photo.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:07:39.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Post.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\Post.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Post.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\Post.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:03:42.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Story.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\Story.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\Story.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:44:25.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Pepelitto.UI",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
-              "RelativeDocumentMoniker": "Pepelitto.UI\\Pepelitto.UI.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
-              "RelativeToolTip": "Pepelitto.UI\\Pepelitto.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T14:34:41.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABtAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:04:54.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:57:51.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T14:13:56.949Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Pepelitto.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
-              "RelativeToolTip": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Configurations\\AppUserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T13:57:46.813Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:08:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:12:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\UserTag.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\DataStructures\\UserTag.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\DataStructures\\UserTag.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\DataStructures\\UserTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:49:48.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Pepelitto.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
-              "RelativeToolTip": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "MessageInbox.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Entities\\MessageInbox.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\Entities\\MessageInbox.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Entities\\MessageInbox.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\Entities\\MessageInbox.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:33:19.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:02:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:09:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtTokenOptionsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:08:57.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Options\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:08:52.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:13:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241124121647_mg46.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Migrations\\20241124121647_mg46.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Migrations\\20241124121647_mg46.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Migrations\\20241124121647_mg46.cs",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Migrations\\20241124121647_mg46.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:55:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pepelitto.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:22:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:08.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Services\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Services\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:24:54.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:04:54.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:45:34.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandValidator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:44.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommand.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pepelitto.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\Pepelitto.Domain.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj",
+              "RelativeToolTip": "Pepelitto.Domain\\Pepelitto.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T13:57:23.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:38:33.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Pepelitto.UI\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:10:17.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pepelitto.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T11:58:14.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Stories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Views\\Stories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Stories\\Index.cshtml",
+              "RelativeToolTip": "Pepelitto.UI\\Views\\Stories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:18:23.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "Pepelitto.UI\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:09:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "hellodialog.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\js\\hellodialog.js",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\wwwroot\\js\\hellodialog.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\js\\hellodialog.js",
+              "RelativeToolTip": "Pepelitto.UI\\wwwroot\\js\\hellodialog.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T11:43:18.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:07:59.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Pepelitto.UI\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-29T17:28:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "story.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\story.html",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\wwwroot\\story.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\story.html",
+              "RelativeToolTip": "Pepelitto.UI\\wwwroot\\story.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T17:28:22.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "framework.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\css\\framework.css",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\wwwroot\\css\\framework.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\css\\framework.css",
+              "RelativeToolTip": "Pepelitto.UI\\wwwroot\\css\\framework.css",
+              "ViewState": "AgIAAKIBAAAAAAAAAADwv7MBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T14:24:02.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "default.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\css\\themes\\default.css",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\wwwroot\\css\\themes\\default.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\wwwroot\\css\\themes\\default.css",
+              "RelativeToolTip": "Pepelitto.UI\\wwwroot\\css\\themes\\default.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T17:23:39.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pepelitto.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:33:31.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Pepelitto.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:08:20.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RemoveByUserIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommandHandler.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:06:57.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RemoveByUserIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommand.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommand.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\RemoveUserById\\RemoveByUserIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:06:53.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:06:52.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetAllUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUserQueryHandler.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\GetAllUser\\GetAllUserQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:06:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Pepelitto.Application\\Features\\User\\Createuser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:08:38.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Abstractions\\ApiController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Abstractions\\ApiController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Abstractions\\ApiController.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Abstractions\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:24:54.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Hatalar.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Hatalar.txt",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Hatalar.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Hatalar.txt",
+              "RelativeToolTip": "Pepelitto.UI\\Hatalar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T14:28:33.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:57:51.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pepelitto.UI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:12:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Program.cs",
+              "RelativeToolTip": "Pepelitto.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:14:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Program.cs",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:08:29.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pepelitto.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:08:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Pepelitto.UI",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Pepelitto.UI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
+              "RelativeToolTip": "Pepelitto.UI\\Pepelitto.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:59:08.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Pepelitto.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.UI\\Pepelitto.UI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.UI\\Pepelitto.UI.csproj",
+              "RelativeToolTip": "Pepelitto.UI\\Pepelitto.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:34:41.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Pepelitto.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "RelativeToolTip": "Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:57:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Pepelitto.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Pepelitto\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "RelativeToolTip": "Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:57:23.994Z"
             }
           ]
         },

@@ -30,3 +30,21 @@ C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.Application\obj\D
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\refint\Pepelitto.Application.dll
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.pdb
 C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\ref\Pepelitto.Application.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.deps.json
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.pdb
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Domain.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Domain.pdb
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.sourcelink.json
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitt.9B13A9E9.Up2Date
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\refint\Pepelitto.Application.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.pdb
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\ref\Pepelitto.Application.dll
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\bin\Debug\net8.0\Pepelitto.Application.runtimeconfig.json
+C:\Users\user\Source\Repos\Pepelitto\Pepelitto\Pepelitto.Application\obj\Debug\net8.0\Pepelitto.Application.genruntimeconfig.cache
