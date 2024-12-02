@@ -1,1 +1,1 @@
-C:\Users\Ali Can\Source\Repos\PepelittoSon\Pepelitto\Pepelitto.UI\wwwroot\css\site.css
+C:\Users\Ali Can\Source\Repos\Pepelittoss\Pepelitto\Pepelitto.UI\wwwroot\css\site.css

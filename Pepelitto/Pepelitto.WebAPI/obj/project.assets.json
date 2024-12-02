@@ -6482,17 +6482,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
       "projectName": "Pepelitto.WebAPI",
-      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.WebAPI\\Pepelitto.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\NuGet.Config",
+        "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\NuGet.Config",
         "C:\\Users\\Ali Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6507,14 +6507,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Application\\Pepelitto.Application.csproj": {
-              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Application\\Pepelitto.Application.csproj"
+            "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Application\\Pepelitto.Application.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Application\\Pepelitto.Application.csproj"
             },
-            "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj": {
-              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj"
+            "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Domain\\Pepelitto.Domain.csproj"
             },
-            "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj"
+            "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj"
             }
           }
         }

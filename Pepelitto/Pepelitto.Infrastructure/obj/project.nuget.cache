@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Nc4h7Ai6pk=",
+  "dgSpecHash": "Nu7niEr5flw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\PepelittoSon\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\Pepelittoss\\Pepelitto\\Pepelitto.Infrastructure\\Pepelitto.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",

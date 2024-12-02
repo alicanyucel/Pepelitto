@@ -11,7 +11,7 @@ namespace Pepelitto.Domain.DataStructures
 		public Guid PostOwnerId { get; set; } 
 		public List<string> Texts { get;set; }  
 
-		
+		// bakayım
 		public DateTime SharedTime { get; set; }
 	}
 }
